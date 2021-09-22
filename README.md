@@ -31,3 +31,22 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots 
+!["Landing Page"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Main.png)
+
+--------------------------------------
+
+!["Admin"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Admin.png)
+
+--------------------------------------
+
+!["Register"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Signup.png)
+
+--------------------------------------
+
+!["Purchase"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Purchase.png)
+
+--------------------------------------
+
+!["Sold"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Sold.png)
