@@ -2,6 +2,15 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Features
+- User Authentication
+- Add to Cart
+- Purchase
+- Admin add to cart (Admin user: Jungle , pass: book)
+- Admin add categories
+- Admin delete product
+- Admin dashboard
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
