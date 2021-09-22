@@ -33,20 +33,21 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Screenshots 
+Main Page
 !["Landing Page"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Main.png)
 
 --------------------------------------
-
+Admin Page
 !["Admin"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Admin.png)
 
 --------------------------------------
-
+Register Page
 !["Register"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Signup.png)
 
 --------------------------------------
-
+Purchase
 !["Purchase"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Purchase.png)
 
 --------------------------------------
-
+Sold out indicator
 !["Sold"](https://github.com/xazzer81/jungle-rails/blob/master/Docs/Sold.png)
